@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RosenthalMark/buildghost-triage-desk/main/assets/triage-desk-banner.jpg" alt="BuildGhost Triage Desk — A Premium BuildGhost Module" width="100%" />
+</p>
+
 # BuildGhost // Triage Desk
 
 > Next-generation issue tracker, release governance, and engineering verification platform.
